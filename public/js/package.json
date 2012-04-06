@@ -1,0 +1,12 @@
+{
+  "author": "T. Jameson Little",
+  "name": "js",
+  "version": "0.0.0",
+  "main": "contact.js",
+  "dependencies": {
+    "jeesh": "*",
+    "reqwest": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
